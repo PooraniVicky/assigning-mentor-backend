@@ -7,7 +7,6 @@ const dotenv = require('dotenv');
 
 // Load environment variables from .env file
 dotenv.config();
-// const mongoURI = 'mongodb+srv://poorani:poorani@poorani.vdwsoet.mongodb.net/Student-Mentor-Management';
 
 // Rest of the code remains the same
 
